@@ -22,5 +22,9 @@ public class Default{
         System.out.println("Default value of string is :"+obj.s);
         System.out.println("Default value of boolean is :"+obj.bo);
     }
-}<img width="546" height="196" alt="default output" src="https://github.com/user-attachments/assets/3e8fd0b1-fd8f-4646-8bbf-4d03bcc1fbb4" />
+    
+}
+```
+
+<img width="546" height="196" alt="default output" src="https://github.com/user-attachments/assets/3e8fd0b1-fd8f-4646-8bbf-4d03bcc1fbb4" />
 
