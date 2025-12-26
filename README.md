@@ -1,5 +1,5 @@
 # Exp1
-``java
+```java
 class Defaultvalues{
     byte by;
     short sh;
